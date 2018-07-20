@@ -10,4 +10,4 @@
 
 2. 这不会对服务产生任何影响，只会在续费时给找不到路的朋友照成困扰。
 
-3. 请收藏R区防走丢链接[https://github.com/five5mu/shadowsocks/edit/r/r.md]
+3. 请收藏R区防走丢链接：https://github.com/five5mu/shadowsocks/blob/r/r.md
