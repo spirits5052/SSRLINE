@@ -10,6 +10,6 @@
 
 2. 这不会影响服务质量，只会在续费时给找不到路的朋友造成困扰。
 
-3. 用户中心最新地址将会第一时间在上面表格中更新。
+3. 我们会第一时间在上面表格中更新最新地址，请收藏本链接。
 
-3. 请收藏R区防走丢链接：https://github.com/five5mu/shadowsocks/blob/r/r.md
+4. R区-防走丢链接：https://github.com/five5mu/shadowsocks/blob/r/r.md
