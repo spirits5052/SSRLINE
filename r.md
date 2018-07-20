@@ -10,4 +10,6 @@
 > 2. 这不会影响服务质量，同时，我们会第一时间在上面表格中更新最新地址。
 > 3. 防走丢，请收藏本链接。
 > 4. R区-防走丢链接：https://github.com/five5mu/shadowsocks/blob/r/r.md
-> 5. 邮箱：five5mu@gmail.com
+
+### 联系我们
+> 邮箱：five5mu@gmail.com
