@@ -1,8 +1,9 @@
 | A区 | 最新地址👇 | 服务 | 状态 |
 | :----: | :----: | :----: | :----: |
-| 地址1 | https:/www.ssglo.com| 关闭| 有问题发邮箱 | 
-| 地址2 | https:/www.ssrglo.com| 关闭| 有问题发邮箱 | 
-| 地址3 | https:/www.ssrol.net| 关闭| 有问题发邮箱 | 
+| 地址2 | https:/www.ssglo.net| 开启| 有问题发邮箱 | 
+| 地址2 | https:/www.ssglo.com| 关闭| 有问题发邮箱 | 
+| 地址3 | https:/www.ssrglo.com| 关闭| 有问题发邮箱 | 
+| 地址4 | https:/www.ssrol.net| 关闭| 有问题发邮箱 | 
 
 ###如果你还是登陆不了请尝试清除DNS缓存
 
