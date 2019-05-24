@@ -1,10 +1,12 @@
 | A区 | 最新地址👇 | 服务 | 状态 |
 | :----: | :----: | :----: | :----: |
-| 地址1 | https:/www.ssglo.com| 开启| 有问题发邮箱 | 
+| 地址1 | https:/www.ssglo.com| 关闭| 有问题发邮箱 | 
 | 地址2 | https:/www.ssrglo.com| 关闭| 有问题发邮箱 | 
 | 地址3 | https:/www.ssrol.net| 关闭| 有问题发邮箱 | 
 
 ###如果你还是登陆不了请尝试清除DNS缓存
+
+万能登录方法：可以下载上面的的hosts文件复制到C:\Windows\System32\drivers\etc 目录下替换掉原来的hosts文件。
 
 ### 说明
 
@@ -16,3 +18,9 @@
 
 > 邮箱：Jimmylee9795@google.com
 > Telegram: https://t.me/joinchat/INJnYBDaNBPa7HY9qXkcnA
+
+www.ssrglo.com
+ssrglo.com
+ssrol.net
+www.ssglo.com
+ssglo.com
