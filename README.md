@@ -1,10 +1,11 @@
-| A区 | 最新地址👇 | 服务 | 状态 |
+| A区 | 最新地址👇 | 服务 | 状态 |更新日期：2020/01/09
 | :----: | :----: | :----: | :----: |
-| 地址1 | https:/www.ssglo.org| 开启| 有问题发邮箱 | 
-| 地址2 | https:/www.ssglo.net| 关闭| 有问题发邮箱 | 
-| 地址2 | https:/www.ssglo.com| 关闭| 有问题发邮箱 | 
-| 地址3 | https:/www.ssrglo.com| 关闭| 有问题发邮箱 | 
-| 地址4 | https:/www.ssrol.net| 关闭| 有问题发邮箱 | 
+| 地址1 | https://www.ssrpro.org| 开启| 有问题发邮箱 |
+| 地址2 | https:/www.ssglo.org| 关闭| 有问题发邮箱 | 
+| 地址3 | https:/www.ssglo.net| 关闭| 有问题发邮箱 | 
+| 地址4 | https:/www.ssglo.com| 关闭| 有问题发邮箱 | 
+| 地址5 | https:/www.ssrglo.com| 关闭| 有问题发邮箱 | 
+| 地址6 | https:/www.ssrol.net| 关闭| 有问题发邮箱 | 
 
 ### 今日通知
 > 有部分用户反映官网：www.ssglo.net 无法访问，经排查位于洛杉矶负载均衡节点发生故障，现已修复。如果你还是无法访问请联系管理员。
