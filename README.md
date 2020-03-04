@@ -1,5 +1,6 @@
 | A区 | 最新地址👇 | 服务 | 状态 |
 | :----: | :----: | :----: | :----: |
+| 地址1 | https://www.sspro.net| 开启| 有问题发邮箱 |
 | 地址1 | https://www.ssrpro.org| 开启| 有问题发邮箱 |
 | 地址2 | https:/www.ssglo.org| 关闭| 有问题发邮箱 | 
 | 地址3 | https:/www.ssglo.net| 关闭| 有问题发邮箱 | 
