@@ -1,12 +1,13 @@
 | SSRonline | 最新地址👇 | 服务 | 状态 |
 | :----: | :----: | :----: | :----: |
+| 地址1 | https://www.sspro.org| 正常| 有问题发邮箱 |
 | 地址1 | https://www.sspro.net| 开启| 有问题发邮箱 |
-| 地址1 | https://www.ssrpro.org| 开启| 有问题发邮箱 |
-| 地址2 | https:/www.ssglo.org| 关闭| 有问题发邮箱 | 
-| 地址3 | https:/www.ssglo.net| 关闭| 有问题发邮箱 | 
-| 地址4 | https:/www.ssglo.com| 关闭| 有问题发邮箱 | 
-| 地址5 | https:/www.ssrglo.com| 关闭| 有问题发邮箱 | 
-| 地址6 | https:/www.ssrol.net| 关闭| 有问题发邮箱 | 
+| 地址1 | https://www.ssrpro.org| 被墙| 有问题发邮箱 |
+| 地址2 | https:/www.ssglo.org| 被墙| 有问题发邮箱 | 
+| 地址3 | https:/www.ssglo.net| 被墙| 有问题发邮箱 | 
+| 地址4 | https:/www.ssglo.com| 被墙| 有问题发邮箱 | 
+| 地址5 | https:/www.ssrglo.com| 被墙| 有问题发邮箱 | 
+| 地址6 | https:/www.ssrol.net| 被墙| 有问题发邮箱 | 
 
 | V2nline | 最新地址👇 | 服务 | 状态 |
 | :----: | :----: | :----: | :----: |
